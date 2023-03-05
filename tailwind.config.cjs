@@ -8,6 +8,7 @@ module.exports = {
     fontFamily:{
       'Lora':['Lora', 'serif'],
       'Poppins':['Poppins', 'sans-serif'],
+      'Dancing-Script':['Dancing Script', 'cursive']
     },
     extend: {
       colors: {

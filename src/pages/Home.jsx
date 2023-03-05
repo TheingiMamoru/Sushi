@@ -23,7 +23,7 @@ const Home = () => {
                 </button>
             </div>
         </div>
-        <div className='h-fit w-[500px]'>
+        <div className='h-fit w-[450px]'>
             <img className='' src="../src/assets/img/home-sushi-rolls.png" alt="" />
         </div>
     </div>
