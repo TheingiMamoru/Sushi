@@ -1,5 +1,4 @@
 import React from 'react'
-import {AiOutlineArrowRight} from 'react-icons/ai'
 
 const About = () => {
   return (
@@ -28,9 +27,6 @@ const About = () => {
                     </p>
             </div>
         </div>
-        {/* <div className=''>
-            <img src="../src/assets/img/leaf-branch-1.png" alt="" />
-        </div> */}
     </div>
   )
 }
