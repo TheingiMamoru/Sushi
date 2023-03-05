@@ -4,6 +4,7 @@ import Nav from './components/Nav'
 import About from './pages/About'
 import Home from './pages/Home'
 import Popular from './pages/Popular'
+import Recently from './pages/Recently'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Route path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/popular' element={<Popular/>}/>
+        <Route path='/recently' element={<Recently/>}/>
       </Routes>
     </div>
   )
