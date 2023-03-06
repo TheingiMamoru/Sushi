@@ -3,8 +3,8 @@ import {BsMoon} from 'react-icons/bs'
 
 const Nav = () => {
   return (
-    <div className='container mx-auto'>
-        <nav className="bg-pale-peach border-gray-200 px-2 sm:px-4 py-2.5">
+    <div className='sticky top-0 bg-pale-peach z-20'>
+        <nav className="px-2 sm:px-4 py-2.5">
             <div className="flex flex-wrap items-center justify-between mx-auto">
                 <a href="#" className="flex gap-2 items-center">
                     <img src="../src/assets/img/logo.png" className="h-5 sm:h-8" alt="Flowbite Logo" />
