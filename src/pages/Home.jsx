@@ -3,14 +3,14 @@ import {AiOutlineArrowRight} from 'react-icons/ai'
 
 const Home = () => {
   return (
-    <div className='container w-[1000px] mx-auto mt-[100px] p-[30px] sm:flex flex-none gap-5 bg-cover bg-pale-peach h-screen sm:justify-between '>
+    <div className='container  mx-auto mt-[100px] p-[30px] sm:flex flex-none gap-5 h-screen sm:justify-between '>
         <div className='flex w-[500px] h-fit'>
             <div className='flex flex-col gap-3'>
                 <h1 className='text-2xl sm:text-5xl font-Lora mb-2 tracking-wide'>
                     Enjoy Delicious <br/> 
                     <div className='flex gap-1 items-center sm:leading-11 mt-4 '>
                         <img className='w-11' src="../src/assets/img/home-sushi-title.png"/>
-                        <h1>Sushi Food</h1>
+                        <h1>Sushi Food</h1> 
                     </div>
                 </h1>
                 <p className='text-para font-Poppins mb-3'>

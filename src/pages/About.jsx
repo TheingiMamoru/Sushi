@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className='container w-[1000px] mx-auto mt-[100px] p-[30px] sm:flex flex-none gap-5 bg-cover bg-pale-peach h-screen sm:justify-between '>
+    <div className='container mx-auto mt-[100px] p-[30px] sm:flex flex-none gap-5 bg-cover bg-pale-peach h-screen sm:justify-between '>
         <div className=' h-fit w-[300px]'>
             <img className='' src="../src/assets/img/about-sushi.png" alt="" />
         </div>

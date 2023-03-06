@@ -3,7 +3,7 @@ import {AiOutlineArrowRight} from 'react-icons/ai'
 
 const Recently = () => {
   return (
-    <div className='container grid grid-cols-2 gap-1 w-[1000px] mx-auto mt-[100px] p-[30px] bg-cover bg-pale-peach h-screen'>
+    <div className='container grid grid-cols-2 gap-1 mx-auto mt-[100px] p-[30px] bg-cover bg-pale-peach h-screen'>
         <div className='flex w-[500px] h-fit'>
             <div className='flex flex-col gap-3'>
                 <h1 className='font-Dancing-Script text-orange text-xl'>Recently Added</h1>

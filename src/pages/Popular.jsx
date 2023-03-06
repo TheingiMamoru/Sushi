@@ -3,7 +3,7 @@ import {HiOutlineShoppingBag} from 'react-icons/hi'
 
 const Popular = () => {
   return (
-    <div className='contiaer mx-auto w-[1000px] flex flex-col'>
+    <div className='contiaer mx-auto flex flex-col'>
         <div className='flex flex-col gap-1 justify-center items-center'>
             <h1 className='font-Dancing-Script text-orange text-xl'>The Best Food</h1>
             <h2 className='text-xl sm:text-3xl font-Lora mb-2 tracking-wide'>Popular Dishes</h2>
