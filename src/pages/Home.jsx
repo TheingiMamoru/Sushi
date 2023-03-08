@@ -17,7 +17,7 @@ const Home = () => {
                     Enjoy a good dinner with the best <br/>
                      dishes in the restaurant and improve <br/> your day.
                 </p>
-                <button className='flex gap-1 text-white font-Poppins items-center justify-center w-[150px] px-2 py-2 bg-dark-orange rounded-full hover:text-dark-orange hover:font-bold hover:bg-white hover:border hover:outline'>
+                <button className='flex gap-1 text-white font-Poppins items-center justify-center w-[150px] px-2 py-2 bg-dark-orange rounded-full '>
                    <span>Order Now</span>  
                    <AiOutlineArrowRight className='font-bold text-xl'/>
                 </button>
